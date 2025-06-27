@@ -14,12 +14,6 @@ using namespace std;
 #define pb push_back
 #define MAX 1005
 
-#include <bits/stdc++.h>
-using namespace std;
-#define fast ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0)
-#define endl '\n'
-#define ll long long
-
 struct edge
 {
     int x, y, w;
